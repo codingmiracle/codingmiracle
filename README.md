@@ -15,23 +15,26 @@ You can click the Preview link to take a look at your changes.
 - awesome dude  (not quite sure, but yes)
 
 ### I'm not a ###
-- Jedi (Yoda said I'm still a Padawan)
+
 - SuperhumanHackerProgrammingGod
 - Printer Fixer
+- Jedi (Yoda said I'm still a Padawan)
 
 ### I like to ###
-- become a Jedi (finally)
+
 - create a better world
 - do some crazy stuff
 - do{<br>
-       Code();<br>
+        Code();<br>
     }while(notDead);
 - eat Pizza (when it is nice and hot)
+- become a Jedi (finally)
 
 ### favorite Programming Language ###
 Tricky, like them all, but C/C++ most.
 
-### Check out my Website ### 
+### Check out my Website ###
+
 [-> This way! <-](https://codingmiracle.github.io)
 
 # Things you can do right now #
@@ -42,8 +45,10 @@ Tricky, like them all, but C/C++ most.
 
 ## If Github would be a Game this would be my Stats: ##
 
+<div align="center">
 
-[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmiracle&show_icons=true&theme=cobalt)]
+![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmiracle&show_icons=true&theme=cobalt)
 
 (I know I'm pretty bad)
 
+</div>
