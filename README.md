@@ -41,8 +41,9 @@ Tricky, like them all, but C/C++ most.
 - Programm something nice
 
 ## If Github would be a Game this would be my Stats: ##
-
+<div align="center">
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmiracle&show_icons=true&theme=cobalt)]
 
 (I know I'm pretty bad)
 
+</div>
