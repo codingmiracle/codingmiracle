@@ -4,6 +4,8 @@ You can click the Preview link to take a look at your changes.
 --->
 # Hello there #
 
+<img src="https://tenor.com/view/obiwan-hellothere-gif-7897520" alt="Hello there -obi wan" height="auto" width="80%"/>
+
 Congrats - you found me
 
 ### I'm a ###
@@ -16,7 +18,7 @@ Congrats - you found me
 
 ### I'm not a ###
 - Frog
-- SuperhumanHackerProgrammerAIwhatever
+- SuperhumanHackerProgrammingGod
 - Printer Fixer
 
 
