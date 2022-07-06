@@ -31,7 +31,7 @@ You can click the Preview link to take a look at your changes.
 ### favorite Programming Language ###
 Tricky, like them all, but C/C++ most.
 
-### Check out my Website### (https://codingmiracle.github.io)
+### Check out my Website(https://codingmiracle.github.io) ### 
 
 ## If Github would be a Game this would be my Stats: ##
 
