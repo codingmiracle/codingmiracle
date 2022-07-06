@@ -6,7 +6,7 @@ You can click the Preview link to take a look at your changes.
 
 Congrats - you found me
 
-I'm a
+### I'm a ###
 - Software Developer
 - Sometimes a Web Developer
 - Maybe also a Data Scientist
@@ -14,7 +14,7 @@ I'm a
 - Golfer
 - awesome dude  (not from my pespective)
 
-Im not a
+### I'm not a ###
 - Frog
 - SuperhumanHackerProgrammerAIwhatever
 - Printer Fixer
