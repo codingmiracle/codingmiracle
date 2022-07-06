@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 - Maybe also a Data Scientist
 - Student
 - Golfer
-- awesome dude  (not from my pespective)
+- awesome dude  (not quite sure, but yes)
 
 ### I'm not a ###
 - Jedi (Yoda said I'm still a Padawan)
@@ -24,8 +24,8 @@ You can click the Preview link to take a look at your changes.
 - create a better world
 - do some crazy stuff
 - do{<br>
-     <t><t>   Code();<br>
- <t>   }while(notDead);
+       Code();<br>
+    }while(notDead);
 - eat Pizza (when it is nice and hot)
 
 ### favorite Programming Language ###
@@ -33,6 +33,13 @@ Tricky, like them all, but C/C++ most.
 
 ### Check out my Website ### 
 [-> This way! <-](https://codingmiracle.github.io)
+
+# Things you can do right now #
+- clone the projects, you like
+- raise some Issues if you think something could be better
+- leave a follow
+- Programm something nice
+
 ## If Github would be a Game this would be my Stats: ##
 
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmiracle&show_icons=true&theme=cobalt)]
