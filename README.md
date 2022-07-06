@@ -23,9 +23,9 @@ You can click the Preview link to take a look at your changes.
 - become a Jedi (finally)
 - create a better world
 - do some crazy stuff
-- do{
-        Code();
-    }while(notDead);
+- do{<br>
+     <t><t>   Code();<br>
+ <t>   }while(notDead);
 - eat Pizza (when it is nice and hot)
 
 ### favorite Programming Language ###
