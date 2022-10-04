@@ -6,8 +6,8 @@ You can click the Preview link to take a look at your changes.
 <!--<img src="https://tenor.com/view/obiwan-hellothere-gif-7897520.gif" alt="Hello there -obi wan" height="auto" width="100%"/>
 --->
 
-```
-   ^-^   
+```c++
+cout << "Hi ^-^" << endl;
 ```
 
 <h2 align="center">Github stats :bar_chart:</h2>
