@@ -3,52 +3,38 @@ codingmiracle/codingmiracle is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-<img src="https://tenor.com/view/obiwan-hellothere-gif-7897520.gif" alt="Hello there -obi wan" height="auto" width="100%"/>
+<!--<img src="https://tenor.com/view/obiwan-hellothere-gif-7897520.gif" alt="Hello there -obi wan" height="auto" width="100%"/>
+--->
 
-# So you found me... #
-### I'm a ###
-- Software Developer
-- Sometimes a Web Developer
-- Maybe also a Data Scientist
-- Student
-- Golfer
-- awesome dude  (not quite sure, but yes)
 
-### I'm not a ###
+<h2 align="center">Github stats :bar_chart:</h2>
 
-- SuperhumanHackerProgrammingGod
-- Printer Fixer
-- Jedi (Yoda said I'm still a Padawan)
+<h4 align="center">Visitor's count :eyes:</h4>
 
-### I like to ###
+<p align="center"><img src="https://profile-counter.glitch.me/{codingmiracle}/count.svg" alt="codingmiracle :: Visitor's Count" /></p>
 
-- create a better world
-- do some crazy stuff
-- do{<br>
-        Code();<br>
-    }while(notDead);
-- eat Pizza (when it is nice and hot)
-- become a Jedi (finally)
+<h4 align="center">Top langs :tongue:</h4>
 
-### favorite Programming Language ###
-Tricky, like them all, but C/C++ most.
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=codingmiracle&langs_count=10&theme=tokyonight&layout=compact" alt="codingmiracle :: Top Langs" /></p>
+
+<h4 align="center">Profile stats :musical_keyboard:</h4>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+
+<p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
 ### Check out my Website ###
 
 [-> This way! <-](https://codingmiracle.github.io)
 
-# Things you can do right now #
+<h4> Things you can do right now </h4>
 - clone the projects, you like
 - raise some Issues if you think something could be better
 - leave a follow
 - Programm something nice
 
-## If Github would be a Game this would be my Stats: ##
+<h4> Other Stuff :fire: </h4>
 
-<div align="center">
 
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=codingmiracle&show_icons=true&theme=cobalt)
 
-(I know I'm pretty bad)
 
-</div>
