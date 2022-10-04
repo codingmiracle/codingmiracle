@@ -29,10 +29,12 @@ You can click the Preview link to take a look at your changes.
 [-> This way! <-](https://codingmiracle.github.io)
 
 <h4 align="center"> Things you can do right now </h4>
-- clone the projects, you like
-- raise some Issues if you think something could be better
-- leave a follow
-- Programm something nice
+<ul align="center">
+  <li>- clone the projects, you like</li>
+  <li>- raise some Issues if you think something could be better</li>
+  <li>- leave a follow</li>
+  <li>- Code whatever you wnat</li>
+</ul>
 
 <h4 align="center"> Other Stuff :fire: </h4>
 
