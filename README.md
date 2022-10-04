@@ -19,21 +19,22 @@ You can click the Preview link to take a look at your changes.
 
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=AnhellO&show_icons=true&theme=synthwave" alt="AnhellO :: Profile Stats" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=codingmiracle&show_icons=true&theme=synthwave" alt="codingmiracle :: Profile Stats" /></p>
 
 <p align="center"><img src="https://thumbs.gfycat.com/GoodnaturedFondGaur-size_restricted.gif" alt="Synthwave" height="300" width="500"></p>
 
-### Check out my Website ###
+
+<h4 align="center"> Check out my Website </h4>
 
 [-> This way! <-](https://codingmiracle.github.io)
 
-<h4> Things you can do right now </h4>
+<h4 align="center"> Things you can do right now </h4>
 - clone the projects, you like
 - raise some Issues if you think something could be better
 - leave a follow
 - Programm something nice
 
-<h4> Other Stuff :fire: </h4>
+<h4 align="center"> Other Stuff :fire: </h4>
 
 
 
