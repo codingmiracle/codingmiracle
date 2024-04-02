@@ -33,7 +33,3 @@ cout << "Hi ^-^" << endl;
   <li><p align="center">Code whatever you wnat</p></li>
 </ul>
 
-<h2 align="center"> Other Stuff :fire: </h4>
-<a href="https://github.com/codingmiracle/publickey">
-<p align="center">my ssh public key</p>
-</a>
